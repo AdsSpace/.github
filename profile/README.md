@@ -17,5 +17,5 @@
     
     The platform works like just any other classifieds ads portal where people may publish their adverts
     exactly as they would in a classifieds portal but with a catch that they need to upload a short video
-    instead of image if they want to sell/post ads and others can go through the ads just like shorts/reels.
+    instead of image if they want to sell/post ads and others can go through the ads like YouTube shorts or Instagram reels.
     
