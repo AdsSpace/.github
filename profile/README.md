@@ -13,7 +13,7 @@
 
 ## Projects
 
-### 1. Video Based Classified Ads
+### 1. Video Based Classified Ads  (AdVids Repo)
     
     The platform works like just any other classifieds ads portal where people may publish their adverts
     exactly as they would in a classifieds portal but with a catch that they need to upload a short video
